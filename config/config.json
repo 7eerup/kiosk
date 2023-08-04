@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "7777",
+    "database": "kiosk-db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
